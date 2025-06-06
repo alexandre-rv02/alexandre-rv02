@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋🏻 Oi! Meu nome é Alexandre e este é o meu GitHub. Seja bem-vindo!
 
-<!--
-**alexandre-rv02/alexandre-rv02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Backend`**
 
-Here are some ideas to get you started:
+Tenho 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia, acredito que o código é a ponte entre ideias e soluções reais. Estou em constante aprendizado, focado em me tornar um desenvolvedor backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑🏻‍💻 Linguagens e tecnologias que estou estudando
+
+[![My Skills](https://skillicons.dev/icons?i=java,git,github)](https://skillicons.dev)
+
+<br>
+<br>
+
+### 📈 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=alexandre-rv02&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+</p>
